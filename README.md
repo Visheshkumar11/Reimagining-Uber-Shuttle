@@ -33,3 +33,11 @@ Despite pre-booking a shuttle, riders often face issues such as:
 
 ## 🏆 Contributing
 Feel free to fork this repository and suggest improvements via pull requests! 😊
+
+---
+## 🤝 Connect with Me
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin-right:10px;">](https://www.linkedin.com/in/vishesh-kumar-53b553346/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" width="30" style="margin-right:10px;">](https://github.com/Visheshkumar11)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="Email" width="30" style="margin-right:10px;">](mailto:vishesh.kumar.ug21@nsut.ac.in)
+
